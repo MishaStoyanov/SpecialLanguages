@@ -3,5 +3,6 @@ public class ModifyClass {
         var result = 4;
         System.out.println("2 + 2 = " + result);
         result++;
+        System.out.println("Conflict");
     }
 }
