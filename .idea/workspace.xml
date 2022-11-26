@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3445f8eb-e551-46ea-ad60-53dda6f31635" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/SomeClassToAddToGithub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "/home/misha/IdeaProjects/Lab1",
     "nodejs_package_manager_path": "npm"
   }
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669458785539</updated>
-      <workItem from="1669458786797" duration="599000" />
+      <workItem from="1669458786797" duration="1701000" />
     </task>
     <servers />
   </component>
